@@ -1,0 +1,11 @@
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\BikeStoreDataAccess.dll.config
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\BikeStoreDataAccess.dll
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\BikeStoreDataAccess.pdb
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\obj\Debug\BikeStoreDataAccess.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\obj\Debug\BikeStoreDataAccess.csproj.CopyComplete
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\obj\Debug\BikeStoreDataAccess.dll
+C:\Users\peter.LINCOLN\source\repos\bikeStore\BikeStoreDataAccess\obj\Debug\BikeStoreDataAccess.pdb
