@@ -1,0 +1,6 @@
+namespace BikeStoreProject.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
