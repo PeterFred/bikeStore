@@ -10,7 +10,7 @@ namespace BikeStoreProject.Controllers
 {
     public class BikeStoreController : ApiController
     {
-        public IEnumerable<customers> Get()
+        public virtual IEnumerable<customers> Get()
         {
             using (BikeStoresEntities entities = new BikeStoresEntities())
             {
@@ -18,7 +18,7 @@ namespace BikeStoreProject.Controllers
             }
         }
 
-        public customers Get(int id)
+        public virtual customers Get(int id)
         {
             using(BikeStoresEntities entities = new BikeStoresEntities())
             {
